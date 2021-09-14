@@ -181,7 +181,7 @@ body {
     font-size: 2rem;
     padding: 10px;
     font-weight: 900;
-    right: 80px;
+    right: 100px;
 }
 
 .box4 {
@@ -243,4 +243,18 @@ body {
     padding: 4px;
     right: 100px;
     top: 70px;
+}
+
+.box5 {
+    width: 100%;
+    background: #1f2937;
+    top: 2000px;
+    height: 100px;
+}
+
+#copyright {
+    color: #f9faf8;
+    text-align: center;
+    font-size: 1.56rem;
+    padding: 30px;
 }
